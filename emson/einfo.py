@@ -1,7 +1,7 @@
 # This File will contain the information to be displayed in your portfolio
 
 # CHANGE BELOW
-profile_picture = "./Images/emmson.jpg"
+profile_picture = "Images/emmson.jpg"
 about_me = "My name is Emmerson West. I am an undergraduate at Georgia Tech majoring in computer engineering. I also work at Starbucks as a barista."
 
 # CHANGE BELOW (OPTIONAL)
